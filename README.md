@@ -1,4 +1,4 @@
 Perl Module NetFlow-Parser
 ================================
-blah blah blah
+Perl modules for working with Netflow packets.
 
